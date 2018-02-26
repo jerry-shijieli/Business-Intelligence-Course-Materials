@@ -1,0 +1,4 @@
+package requirement:
+    igraph
+    numpy
+    matplotlib
